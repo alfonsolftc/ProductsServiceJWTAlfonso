@@ -4,9 +4,9 @@ INSERT INTO products (name, serial) VALUES
 ('Travel', '111-222-3333'),
 ('Candy', '111-222-3334'),
 ('Book', '111-222-3335'),
-('Helado1', '111-222-3335'),
-('Helado2, '111-222-3335'),
-('Helado', '111-222-3335');
+('Helado1', '111-222-3338'),
+('Helado2, '111-222-3337'),
+('Helado', '111-222-3338');
 
 
 INSERT INTO users (email, password, role) VALUES
