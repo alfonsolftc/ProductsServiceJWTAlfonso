@@ -5,6 +5,7 @@ INSERT INTO products (name, serial) VALUES
 ('Candy', '111-222-3334'),
 ('Book', '111-222-3335'),
 ('Helado1', '111-222-3335'),
+('Helado2, '111-222-3335'),
 ('Helado', '111-222-3335');
 
 
